@@ -83,4 +83,4 @@ jobs:
           # но и отправить на Docker Hub
           push: true
 
-          tags: sukhininayo@gmail.com/taski_backend:latest
+          tags: juliasukhininayo/taski_backend:latest
