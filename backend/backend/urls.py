@@ -4,7 +4,6 @@ from rest_framework import routers
 from django.urls import include, path
 
 router = routers.DefaultRouter()
-
 router.register('tasks', views.TaskView, 'task')
 
 urlpatterns = [
